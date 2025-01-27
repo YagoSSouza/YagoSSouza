@@ -9,7 +9,7 @@ Sou um desenvolvedor em transição de carreira, no momento presente me dedicand
 Atualmente cursando Análise e desenvolvimento de sistemas Full Stack e Mobile na PUCRS.
 
 
-## 💻 Linguagens e tecnologias 
+## 🌐 Linguagens e tecnologias 
 
 <img 
     align="left" 
