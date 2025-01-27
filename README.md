@@ -5,7 +5,7 @@
 **`Desenvolvedor Front-End | Desenvolvedor Web`**
 
 Olá, me chamo Yago Souza, tenho 23 anos e sou de Cachoeirinha, Rio Grande do Sul.
-Sou um desenvolvedor em transição de carreira, atualmente me dedicando a aprender e aprimorar minhas habilidades no desenvolvimento Web/Front-End.
+Sou um desenvolvedor em transição de carreira, no momento presente me dedicando a aprender e aprimorar minhas habilidades no desenvolvimento Web/Front-End.
 Atualmente cursando Análise e desenvolvimento de sistemas Full Stack e Mobile na PUCRS.
 
 
